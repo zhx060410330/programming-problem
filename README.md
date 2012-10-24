@@ -7,3 +7,4 @@ The problems in 编程之美
 1.6 dynamic programming
 1.7 inversion count
 1.8 elevator.c
+1.9 graph_color.c
