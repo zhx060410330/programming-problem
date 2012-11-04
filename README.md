@@ -1,4 +1,4 @@
-The problems in 编程之美
+The problems in 编程之美  
 
 1.1 cpu.c cpu_sin.c  
 1.2 chess.c  
@@ -8,3 +8,4 @@ The problems in 编程之美
 1.7 inversion count  
 1.8 elevator.c  
 1.9 graph color  
+1.13 nim  
